@@ -25,7 +25,7 @@ PHOTO_URL = ["https://telegra.ph/file/72ea883532b722f405059.jpg", "https://teleg
 SUPPORT_CHAT = "warzone_123"
 UPDATE_CHAT = "warzone_123"
 BOT_USERNAME = "Mei_pro_robot"
-CHARA_CHANNEL_ID = -2005927519
+CHARA_CHANNEL_ID = 2005927519
 api_id = 28509005
 api_hash = "dc43ab3927d0c4da0067ee3100ea2f08"
 
