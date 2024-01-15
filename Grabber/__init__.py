@@ -16,18 +16,18 @@ logging.getLogger('httpx').setLevel(logging.WARNING)
 logging.getLogger("pyrate_limiter").setLevel(logging.ERROR)
 LOGGER = logging.getLogger(__name__)
 
-OWNER_ID = 6069337486
-sudo_users = ["6392704171", "6069337486"]
-GROUP_ID = -1001885981737
-TOKEN = "6743275108:AAHzO4yvt8npjp0cQ-reTF1C-h-wKqiS4q4"
-mongo_url = "mongodb+srv://Komi:Aarught5645@cluster0.8usl8ul.mongodb.net/?retryWrites=true&w=majority"
+OWNER_ID = 1826484283
+sudo_users = ["6769261147", "1826484283"]
+GROUP_ID = -1002078269704
+TOKEN = "6764429942:AAFtHzQnGeXyCA5brM0ZcC8dxRICo2ZUMY0"
+mongo_url = "mongodb+srv://itachi123:itachi123@cluster0.q08jjzp.mongodb.net/?retryWrites=true&w=majority"
 PHOTO_URL = ["https://telegra.ph/file/72ea883532b722f405059.jpg", "https://telegra.ph/file/72ea883532b722f405059.jpg"]
-SUPPORT_CHAT = "HEROKUFREECC"
-UPDATE_CHAT = "HEROKUFREECC"
-BOT_USERNAME = "AnzooBot"
-CHARA_CHANNEL_ID = -1001885981737
-api_id = 6435225
-api_hash = "4e984ea35f854762dcde906dce426c2d"
+SUPPORT_CHAT = "warzone_123"
+UPDATE_CHAT = "warzone_123"
+BOT_USERNAME = "Mei_pro_robot"
+CHARA_CHANNEL_ID = -1002078269704
+api_id = 28509005
+api_hash = "dc43ab3927d0c4da0067ee3100ea2f08"
 
 
 application = Application.builder().token(TOKEN).build()
