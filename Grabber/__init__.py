@@ -18,14 +18,14 @@ LOGGER = logging.getLogger(__name__)
 
 OWNER_ID = 1826484283
 sudo_users = ["6769261147", "1826484283"]
-GROUP_ID = -1002078269704
+GROUP_ID = -1002126546106
 TOKEN = "6764429942:AAFtHzQnGeXyCA5brM0ZcC8dxRICo2ZUMY0"
 mongo_url = "mongodb+srv://itachi123:itachi123@cluster0.q08jjzp.mongodb.net/?retryWrites=true&w=majority"
 PHOTO_URL = ["https://telegra.ph/file/72ea883532b722f405059.jpg", "https://telegra.ph/file/72ea883532b722f405059.jpg"]
 SUPPORT_CHAT = "warzone_123"
 UPDATE_CHAT = "warzone_123"
 BOT_USERNAME = "Mei_pro_robot"
-CHARA_CHANNEL_ID = -1002078269704
+CHARA_CHANNEL_ID =-1002126546106
 api_id = 28509005
 api_hash = "dc43ab3927d0c4da0067ee3100ea2f08"
 
