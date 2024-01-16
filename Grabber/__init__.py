@@ -19,7 +19,7 @@ LOGGER = logging.getLogger(__name__)
 OWNER_ID = 1826484283
 sudo_users = ["6769261147", "1826484283"]
 GROUP_ID = -1002126546106
-TOKEN = "6764429942:AAFtHzQnGeXyCA5brM0ZcC8dxRICo2ZUMY0"
+TOKEN = "6764429942:AAFo6cjU3BcbBvQDvqdvcxv4LvAfrgPBGlw"
 mongo_url = "mongodb+srv://itachi123:itachi123@cluster0.q08jjzp.mongodb.net/?retryWrites=true&w=majority"
 PHOTO_URL = ["https://telegra.ph/file/72ea883532b722f405059.jpg", "https://telegra.ph/file/72ea883532b722f405059.jpg"]
 SUPPORT_CHAT = "warzone_123"
